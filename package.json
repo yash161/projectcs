@@ -1,0 +1,23 @@
+{
+	"name": "Courier",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node server.js"
+	},
+	"author": "YASH SHAH",
+	"license": "ISC",
+	"dependencies": {
+		"@cloudant/cloudant": "^4.5.1",
+		"alert": "^5.0.10",
+		"express": "^4.17.1",
+		"html": "^1.0.0",
+		"json2html": "^0.0.8",
+		"mysql": "^2.18.1",
+		"node-json2html": "^2.1.0",
+		"popups": "^1.1.3",
+		"pug": "^2.0.4"
+	}
+}
